@@ -1,16 +1,16 @@
-### Hi there 👋
+# Rafael Keiti Azuma
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/)
 
-<!--
-**rafaelkeiti/rafaelkeiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Hello my friends!!! All well?!** 🤞
 
-Here are some ideas to get you started:
+Nice to meet you, my name is Rafael Keiti Azuma, I'm 20 years old and I graduated as a Computer Technician. At the moment I'm focused on studying the JS language to become a good programmer 👨‍💻👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Professional Goals
+    - 📘 Have a job in the technology field.
+    
+    - 📝 Learning to program in languages ​​other than JS.
+    
+    - 👨🏽‍🎓 join a college.
+
+#  
